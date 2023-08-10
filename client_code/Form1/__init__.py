@@ -7,7 +7,7 @@ class Form1(Form1Template):
         # print(window.__dir__())
         # self.init_components(**properties)
         # web3auth_config = {
-        #     "clientId": "YOUR_WEB3AUTH_CLIENT_ID",
+        #     "clientId": "BIKwLAaWOBYuG9hFEmiGUtUciRC09VX6DECnOlmtqZDjpaih_bhTE3atOpx3tgTDeeVbEBAFg3VN23j7crRfpn8",
         #     "chainConfig": {
         #         "chainNamespace": "eip155",
         #         "chainId": "0x5",
