@@ -1,8 +1,7 @@
 unique_ids:
   forms:
     Form1: 6FCZ63NMQ52J6CYCEFZLXHK6DY566GNZ
-  modules:
-    TestModule: '1691669038215688238755555.2145'
+  modules: {}
   server_modules: {}
   assets:
     standard-page.html: PJW2R6QVHX4BFBBS3B6UZHLPHVKHMH4S
