@@ -9,11 +9,5 @@ allow_embedding: false
 name: web3auth
 runtime_options: {version: 2, client_version: '3', server_version: python3-full, server_spec: null}
 startup_form: null
-native_deps: {head_html: '<script src="https://unpkg.com/@web3auth/modal@6.1.7"></script>
-
-    <script src="https://unpkg.com/@web3auth/metamask-adapter@6.1.7"></script>
-
-    <script src="https://unpkg.com/@web3auth/coinbase-adapter@6.1.7"></script>
-
-    '}
+native_deps: {head_html: ''}
 renamed: true
